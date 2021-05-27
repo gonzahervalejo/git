@@ -1,0 +1,21 @@
+* {
+    margin-left: 70px;
+}
+
+
+
+.titulo{
+
+    font-size: 40px;
+    color: red;
+    background-color: rgba(233, 160, 160, 0.158);
+
+}
+
+.contenido{
+
+
+
+    font-size: 25px;
+    color: black;
+}
